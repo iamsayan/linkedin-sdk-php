@@ -1,7 +1,6 @@
 <?php
 
-namespace myPHPNotes;
-
+namespace SayanDatta;
 
 class LinkedIn {
     protected $app_id;
