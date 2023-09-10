@@ -6,7 +6,7 @@
 	},
     "autoload": {
     	"psr-4": {
-    		"SayanDatta\\LinkedIn\\": "src"
+    		"SayanDatta\\": "src"
     	}
     },
     "license": "MIT"

@@ -11,10 +11,10 @@
 spl_autoload_register(function($class) {
 
     // project-specific namespace prefix
-    $prefix = 'SayanDatta\\LinkedIn\\';
+    $prefix = 'SayanDatta\\';
 
     // base directory for the namespace prefix
-    $base_dir = __DIR__ . '/src/LinkedIn/';
+    $base_dir = __DIR__ . '/src/';
 
     // does the class use the namespace prefix?
     $len = strlen($prefix);
