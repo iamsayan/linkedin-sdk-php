@@ -1,0 +1,13 @@
+{
+    "name": "iamsayan/linkedin-sdk-php",
+    "require": {
+	  	"ext-json": "*",
+        "php": ">=5.4"
+	},
+    "autoload": {
+    	"psr-4": {
+    		"SayanDatta\\LinkedIn\\": "src"
+    	}
+    },
+    "license": "MIT"
+}
